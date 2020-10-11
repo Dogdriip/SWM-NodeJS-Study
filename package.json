@@ -1,0 +1,25 @@
+{
+  "name": "swm-nodejs-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dogdriip/SWM-NodeJS-Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dogdriip/SWM-NodeJS-Study/issues"
+  },
+  "homepage": "https://github.com/Dogdriip/SWM-NodeJS-Study#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nedb": "^1.8.0",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.1"
+  }
+}
